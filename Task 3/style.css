@@ -1,0 +1,10 @@
+.download-message {
+  display: none;
+}
+
+body {
+	background-image: url("http://orig00.deviantart.net/ab8a/f/2015/223/b/5/catdog_by_thedarkbrawler90-d959guc.png");
+	background-repeat: no-repeat;
+	font-size: 24px;
+	color: #1f7b83;
+}

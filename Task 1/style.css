@@ -1,0 +1,23 @@
+body {
+	background: url("https://vignette4.wikia.nocookie.net/nickelodeon/images/5/5e/Daggett.png/revision/latest?cb=20110612162954");
+	background-repeat: no-repeat;
+}
+
+input {
+	display: block;
+	padding: 10px;
+    margin: 20px auto;
+    background-color: #f7f92b;
+    border: 1px solid #000;
+    border-radius: 5px;
+    color: #000;
+}
+
+input[type="submit"] {
+	background: #d9db00;
+	cursor:pointer;
+}
+
+input[type="submit"]:hover {
+	background: #c3c500;
+}
